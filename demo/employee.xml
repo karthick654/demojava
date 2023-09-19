@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<employee>
+    <content>This is the content of the new file.</content>
+    <content></content>
+    <content>[</content>
+    <content>{</content>
+    <content>	name:"aaa",</content>
+    <content>	age:"20"</content>
+    <content>}</content>
+    <content>{</content>
+    <content>	name:"xxx",</content>
+    <content>	age:"21"</content>
+    <content>}</content>
+    <content>{</content>
+    <content>	name:"yyy",</content>
+    <content>	age:"22"</content>
+    <content>}</content>
+    <content>{</content>
+    <content>	name:"zzzz",</content>
+    <content>	age:"23"</content>
+    <content>}</content>
+    <content>]</content>
+</employee>
